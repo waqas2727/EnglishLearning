@@ -1,0 +1,142 @@
+In English grammar, ‘do-insertion’ or ‘do-support’ refers to the use of the auxiliary verb ‘do’, including its reflected forms ‘does’ and ‘did'. There are some common uses of do-insertion which are described below.
+
+To ask a question:
+We consider a sentence, “You want money”.
+Here, 'you' is the subject, 'want' is the verb and 'money' is the complement. But there is no auxiliary verb in this sentence. That's why we need to add a dummy 'do' to turn this assertive sentence into an interrogative sentence.
+
+You want money (You do want money).
+-Do you want money?
+Similarly, 
+
+She likes the dress (She does like the dress).
+-Does she like the dress?
+He got the job (He did get the job).
+- Did he get the job?
+To make a negative sentence:
+We need to add the word 'not' to the auxiliary verb.
+Example:
+
+You want money.
+-You do not want money/ You don't want money.
+Similarly, 
+
+She likes the dress.
+-She does not like the dress/ She doesn't like the dress.
+He got the job.
+-He did not get the job/ He didn't get the job.
+Note: In most cases, we need to add the auxiliary 'do' to make a question or negative sentence except the use of the verb 'be' and the verb 'have'.
+
+Be:
+Example:
+
+You are rich (are=be verb).
+To make it negative, we can say
+-You are not rich/ You aren't rich.
+
+But we can't say say
+-You don't are rich.
+
+Similarly to make a question, we can say
+-Are you rich?
+
+But we can't say, 
+-Do you are rich?
+
+So instead of adding an auxiliary 'do' with the verb 'be', we can invert the verb 'be' with the subject.
+
+Have:
+In UK/ England, the same rule works with the verb 'have' also. So when we say
+
+I have a dream.
+
+-Have I a dream? (Question)
+
+Or, Do I have a dream? (Question)
+
+-I have not a dream/ I haven't a dream/ I don't have a dream. (Negative)
+
+So there are only two exceptions to the 'do-insertion' in question and in a negative sentence. These are with the verb 'be' and the verb 'have'.
+
+To put emphasis in imperative sentence
+We also use the do-insertion with an imperative sentence when we want to put the emphasis.
+
+Example:
+
+Instead of saying to a kid, 
+“Behave!”
+We can say, “Do behave!”
+It means to put emphasis on 'behave' which is like giving an order.
+
+In tag question
+Example: 
+
+You want a bike, don't you?
+
+We are using dummy 'do' in this tag question because there is no auxiliary verb in this sentence. So we are adding an auxiliary as well as 'not' because the tag question usually has to be opposite to the actual sentence (if the question is positive, the tag question will be negative).
+
+Similarly,
+
+We want freedom, don't we?
+
+She likes to play, doesn't she?
+
+To answer a question by using 'yes/no'
+When we need to answer shortly in 'yes' or 'no', we can use the dummy operator or the modal verb or the auxiliary to answer.
+
+Example: 
+
+Are you busy?
+-Yes, I do.
+
+Here, the verb 'be' doesn't take the 'do' operator', so this reply is wrong. We can reply
+
+-Yes, I am. (Positive)
+-No, I am not. (Negative)
+
+Similarly,
+Have you a car?
+-Yes, I have. (Positive)
+-No, I don't have. (Negative)
+
+Do you want a pen?
+-Yes, I do.
+-No, I don't.
+
+‘Tense inflection' and 'Third person inflection'
+What's special about 'do' is that it takes the 'tense inflection' and the 'third person inflection'.
+
+Example:
+
+He has a sister.
+-he have a sister (this is wrong because 'he' is third person singular number).
+
+So we should say
+-Does he have a sister?
+
+So only one of a verb the 'do' takes a person inflection.
+
+He doesn't have a sister.
+-He doesn't has a sister. (Wrong)
+-He don't has a sister. (Wrong)
+
+When we say a sentence in the past tense
+
+He had a sister.
+-Did he have a sister? (Question)
+Here, we put the tense inflection on the 'do'. So 'do' becomes 'did' and 'has' becomes 'have'.
+
+He had a sister.
+-He didn't have a sister. (Negative)
+
+Modal verbs:
+Modal verbs are verbs that act like auxiliary verbs. For example: can, could, be able to, may, might, shall, should, must, have to, will, would, etc.
+
+Example:
+
+I will go.
+-Will I go?
+
+She should leave now.
+-Should she leave now?
+
+The modal verbs act like an auxiliary, and they invert with the subject to make a question, to make a negative sentence and to make tag question.
